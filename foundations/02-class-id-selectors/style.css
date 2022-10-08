@@ -1,0 +1,20 @@
+.thi-elem,
+.odd-num {
+    background-color: #ffc7f4;
+    font-family: veranda, "DejaVu Sans", sans-serif;
+}
+
+#sec-elem {
+    color: #0066db;
+    font-size: 36px;
+}
+
+.thi-elem {
+    font-size: 24px;
+}
+
+#fou-elem {
+    background-color: #80ff97;
+    font-size: 24px;
+    font-weight: bold;
+}
